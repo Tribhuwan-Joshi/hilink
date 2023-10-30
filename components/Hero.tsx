@@ -45,7 +45,7 @@ const Hero = () => {
           <Button
             type="button"
             icon="/play.svg"
-            title="Download App"
+            title="How we work?"
             variant="btn_white_text"
           />
         </div>
@@ -72,6 +72,8 @@ const Hero = () => {
           </div>
         </div>
       </div>
+
+      
     </section>
   );
 };
